@@ -9,6 +9,8 @@ The Ping Mod lets you see each player's ping while in a Beat Saber multiplayer l
 - **Real Connection Data:** Uses the actual ping information available from the game.
 - **Easy to Read:** Lets you quickly check everyone's connection while hanging out in the lobby.
 
+<img width="308" height="355" alt="Screenshot 2026-11-04 115258" src="https://github.com/user-attachments/assets/04254e4f-9079-451c-adb3-89843cad209b" />
+
 ## How It Works
 
 When you join a Beat Saber multiplayer lobby, the mod detects the players and displays a ping label above each player's avatar.
